@@ -41,3 +41,8 @@ python => 3
 
     flask db migrate -> 相当于commit 更新到/migrate目录
     flask db upgrade -> 数据库会更新
+
+
+fix issues
+
+    1、修改case manage.py params 'variables' to 'variable'
